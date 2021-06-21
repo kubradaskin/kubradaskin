@@ -17,6 +17,7 @@ I'm a Computer Engineer 💻. I am developing myself in Java and Web technologie
 
 ## 🧰 Languages and Tools:
 <p align="left">
+<a href="https://github.com/kubradaskin"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" alt="HTML5" height="40" style="vertical-align:top; margin:4px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/arduino.svg" alt="Arduino" height="40" style="vertical-align:top; margin:4px">
