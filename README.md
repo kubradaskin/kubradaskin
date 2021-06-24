@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Computer Engineer 💻. I am developing myself in Java and Web technologies. You can review my work in these areas and provide feedback.
+I'm a Computer Engineer 💻. I am developing myself in Java and Web technologies.
 
 
 ## ✉️ Connect with me:
