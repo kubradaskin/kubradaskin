@@ -4,8 +4,6 @@
 
 - I’m currently learning **Java, Spring Boot, N-Layer Arhitecture, PostgreSQL, Object Orianted Principle, Aspect Oriented Principle, SOLID Principle**
 
-- All of my projects are available at https://github.com/kubradaskin?tab=repositories
-
 
 ## ✉️ Connect with me:
 
